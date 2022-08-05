@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,gBAEI,wBAAoC","file":"main.294b0ee8.chunk.css","sourcesContent":[".on-hover {\n  &:hover {\n    background-color: hsl(48, 100%, 96%);\n  }\n}\n"]}
